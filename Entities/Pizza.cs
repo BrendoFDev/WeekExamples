@@ -1,4 +1,4 @@
-﻿namespace FirstWeekExemples.Entities
+﻿namespace FirstWeek.Entities
 {
     public abstract class Pizza
     {

@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\brendo\\source\\repos\\FirstWeekExemples\\FirstWeekExemples.csproj",
-      "projectName": "FirstWeekExemples",
-      "projectPath": "C:\\Users\\brendo\\source\\repos\\FirstWeekExemples\\FirstWeekExemples.csproj",
+      "projectUniqueName": "C:\\Users\\brendo\\source\\repos\\FirstWeekExemples\\FirstWeek.csproj",
+      "projectName": "FirstWeek",
+      "projectPath": "C:\\Users\\brendo\\source\\repos\\FirstWeekExemples\\FirstWeek.csproj",
       "packagesPath": "C:\\Users\\brendo\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\brendo\\source\\repos\\FirstWeekExemples\\obj\\",
       "projectStyle": "PackageReference",
