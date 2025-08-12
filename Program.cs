@@ -1,21 +1,45 @@
-﻿using FirstWeekExemples.Entities;
-
-Pizza pizza = new PizzaPortuguesa();
-pizza.Name = "Pizza Portuguesa";
-pizza.Description = "Pizza com ovo, cebola, presunto e azeitona";
-pizza.Price = 29.99M;
+﻿using FirstWeek.Entities;
+Pizza pizzaCalab = new PizzaCalabresa();
+pizzaCalab.Name = "Pizza Calabresa";
+pizzaCalab.Description = "Pizza com Calabresa, queijo e ketchup";
+pizzaCalab.Price = 30;
 
 string[] ingredientesArray = new string[]
 {
-    "Ovo",
-    "Cebola",
-    "Presunto",
-    "Azeitona"
+    "Queijo",
+    "cebola",
+    "presunto",
+    "Calabresa",
+    "Alho"
 };
 
-pizza.Ingredients.AddRange(ingredientesArray);
+pizzaCalab.Ingredients.AddRange(ingredientesArray);
 
-pizza.GetDetails();
-pizza.ShowIngredients(pizza.Ingredients);
+Pizza pizzaPort = new PizzaPortuguesa();
+pizzaPort.Name = "Pizza Portuguesa";
+pizzaPort.Description = " Pizza com Presunto, Queijo, Ovo, Cebola e Azeitona";
+pizzaPort.Price = 12;
 
-Thread.Sleep(5000); // Pausa de 5 segundos para visualizar a saída antes de fechar o console
+ingredientesArray = new string[]
+{
+    "Queijo",
+    "Cebola",
+    "Presunto",
+    "OvO",
+    "Azeitona"
+};
+pizzaPort.Ingredients.AddRange(ingredientesArray);
+
+List<Pizza> pizzas = new List<Pizza>()
+{
+    pizzaCalab,
+    pizzaPort
+};
+
+List<Pizza> prices = pizzas.Where(x => x.Ingredients.Contains("Cebola")).ToList();
+foreach (Pizza pizza in prices)
+{
+ 
+   pizza.GetDetails();
+}
+Thread.Sleep(10000);

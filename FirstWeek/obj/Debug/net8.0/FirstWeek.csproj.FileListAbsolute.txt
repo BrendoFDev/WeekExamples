@@ -1,0 +1,15 @@
+C:\Users\brendo\source\repos\FirstWeekExemples\obj\Debug\net8.0\FirstWeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brendo\source\repos\FirstWeekExemples\obj\Debug\net8.0\FirstWeek.AssemblyInfoInputs.cache
+C:\Users\brendo\source\repos\FirstWeekExemples\obj\Debug\net8.0\FirstWeek.AssemblyInfo.cs
+C:\Users\brendo\source\repos\FirstWeekExemples\obj\Debug\net8.0\FirstWeek.csproj.CoreCompileInputs.cache
+C:\Users\brendo\source\repos\FirstWeekExemples\obj\Debug\net8.0\FirstWeek.sourcelink.json
+C:\Users\brendo\source\repos\FirstWeekExemples\bin\Debug\net8.0\FirstWeek.exe
+C:\Users\brendo\source\repos\FirstWeekExemples\bin\Debug\net8.0\FirstWeek.deps.json
+C:\Users\brendo\source\repos\FirstWeekExemples\bin\Debug\net8.0\FirstWeek.runtimeconfig.json
+C:\Users\brendo\source\repos\FirstWeekExemples\bin\Debug\net8.0\FirstWeek.dll
+C:\Users\brendo\source\repos\FirstWeekExemples\bin\Debug\net8.0\FirstWeek.pdb
+C:\Users\brendo\source\repos\FirstWeekExemples\obj\Debug\net8.0\FirstWeek.dll
+C:\Users\brendo\source\repos\FirstWeekExemples\obj\Debug\net8.0\refint\FirstWeek.dll
+C:\Users\brendo\source\repos\FirstWeekExemples\obj\Debug\net8.0\FirstWeek.pdb
+C:\Users\brendo\source\repos\FirstWeekExemples\obj\Debug\net8.0\FirstWeek.genruntimeconfig.cache
+C:\Users\brendo\source\repos\FirstWeekExemples\obj\Debug\net8.0\ref\FirstWeek.dll
