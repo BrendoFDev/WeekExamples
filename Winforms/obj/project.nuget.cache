@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fGuLUhDIP6g=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\brendo\\source\\repos\\FirstWeekExemples\\Winforms\\Winforms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\brendo\\.nuget\\packages\\fluentvalidation\\12.0.0\\fluentvalidation.12.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
