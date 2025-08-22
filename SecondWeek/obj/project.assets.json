@@ -5604,23 +5604,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Softlog\\.nuget\\packages\\": {},
+    "C:\\Users\\brendo\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Softlog\\source\\repos\\Íkaro\\SecondWeek\\SecondWeek.csproj",
+      "projectUniqueName": "C:\\Users\\brendo\\source\\repos\\FirstWeekExemples\\SecondWeek\\SecondWeek.csproj",
       "projectName": "SecondWeek",
-      "projectPath": "C:\\Users\\Softlog\\source\\repos\\Íkaro\\SecondWeek\\SecondWeek.csproj",
-      "packagesPath": "C:\\Users\\Softlog\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Softlog\\source\\repos\\Íkaro\\SecondWeek\\obj\\",
+      "projectPath": "C:\\Users\\brendo\\source\\repos\\FirstWeekExemples\\SecondWeek\\SecondWeek.csproj",
+      "packagesPath": "C:\\Users\\brendo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\brendo\\source\\repos\\FirstWeekExemples\\SecondWeek\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Softlog\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\brendo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -5629,6 +5629,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -5647,7 +5648,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.200"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net8.0": {
@@ -5686,7 +5687,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

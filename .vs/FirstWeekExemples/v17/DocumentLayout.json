@@ -1,18 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Softlog\\source\\repos\\\u00CDkaro\\",
+  "WorkspaceRootPath": "C:\\Users\\brendo\\source\\repos\\FirstWeekExemples\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D5C76216-749E-E78D-BD7C-A8B1CD6C68C9}|FirstWeek\\FirstWeek.csproj|c:\\users\\softlog\\source\\repos\\\u00EDkaro\\firstweek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5C76216-749E-E78D-BD7C-A8B1CD6C68C9}|FirstWeek\\FirstWeek.csproj|solutionrelative:firstweek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{54732C95-275A-4D72-ABDE-F75E16E5C616}|Teste\\Teste.csproj|c:\\users\\brendo\\source\\repos\\firstweekexemples\\teste\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54732C95-275A-4D72-ABDE-F75E16E5C616}|Teste\\Teste.csproj|solutionrelative:teste\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24ACEB22-D0CE-AB1F-4E24-BFDB71C2B248}|SecondWeek\\SecondWeek.csproj|c:\\users\\softlog\\source\\repos\\\u00EDkaro\\secondweek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24ACEB22-D0CE-AB1F-4E24-BFDB71C2B248}|SecondWeek\\SecondWeek.csproj|solutionrelative:secondweek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5471AE2F-1773-4EC8-BB6D-08AB3C699F48}|Winforms\\Winforms.csproj|C:\\Users\\brendo\\source\\repos\\FirstWeekExemples\\winforms\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5471AE2F-1773-4EC8-BB6D-08AB3C699F48}|Winforms\\Winforms.csproj|solutionrelative:winforms\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24ACEB22-D0CE-AB1F-4E24-BFDB71C2B248}|SecondWeek\\SecondWeek.csproj|c:\\users\\softlog\\source\\repos\\\u00EDkaro\\secondweek\\secondweek.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{24ACEB22-D0CE-AB1F-4E24-BFDB71C2B248}|SecondWeek\\SecondWeek.csproj|solutionrelative:secondweek\\secondweek.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{5471AE2F-1773-4EC8-BB6D-08AB3C699F48}|Winforms\\Winforms.csproj|c:\\users\\brendo\\source\\repos\\firstweekexemples\\winforms\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5471AE2F-1773-4EC8-BB6D-08AB3C699F48}|Winforms\\Winforms.csproj|solutionrelative:winforms\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24ACEB22-D0CE-AB1F-4E24-BFDB71C2B248}|SecondWeek\\SecondWeek.csproj|c:\\users\\brendo\\source\\repos\\firstweekexemples\\secondweek\\dataaccess\\nhibernatehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24ACEB22-D0CE-AB1F-4E24-BFDB71C2B248}|SecondWeek\\SecondWeek.csproj|solutionrelative:secondweek\\dataaccess\\nhibernatehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5471AE2F-1773-4EC8-BB6D-08AB3C699F48}|Winforms\\Winforms.csproj|c:\\users\\brendo\\source\\repos\\firstweekexemples\\winforms\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5471AE2F-1773-4EC8-BB6D-08AB3C699F48}|Winforms\\Winforms.csproj|solutionrelative:winforms\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5471AE2F-1773-4EC8-BB6D-08AB3C699F48}|Winforms\\Winforms.csproj|c:\\users\\brendo\\source\\repos\\firstweekexemples\\winforms\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5471AE2F-1773-4EC8-BB6D-08AB3C699F48}|Winforms\\Winforms.csproj|solutionrelative:winforms\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,40 +40,74 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Softlog\\source\\repos\\\u00CDkaro\\FirstWeek\\Program.cs",
-              "RelativeDocumentMoniker": "FirstWeek\\Program.cs",
-              "ToolTip": "C:\\Users\\Softlog\\source\\repos\\\u00CDkaro\\FirstWeek\\Program.cs",
-              "RelativeToolTip": "FirstWeek\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\brendo\\source\\repos\\FirstWeekExemples\\Teste\\Program.cs",
+              "RelativeDocumentMoniker": "Teste\\Program.cs",
+              "ToolTip": "C:\\Users\\brendo\\source\\repos\\FirstWeekExemples\\Teste\\Program.cs",
+              "RelativeToolTip": "Teste\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T20:32:13.765Z",
+              "WhenOpened": "2025-08-19T19:36:29.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NhibernateHelper.cs",
+              "DocumentMoniker": "C:\\Users\\brendo\\source\\repos\\FirstWeekExemples\\SecondWeek\\DataAccess\\NhibernateHelper.cs",
+              "RelativeDocumentMoniker": "SecondWeek\\DataAccess\\NhibernateHelper.cs",
+              "ToolTip": "C:\\Users\\brendo\\source\\repos\\FirstWeekExemples\\SecondWeek\\DataAccess\\NhibernateHelper.cs",
+              "RelativeToolTip": "SecondWeek\\DataAccess\\NhibernateHelper.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T18:55:08.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Validator.cs",
+              "DocumentMoniker": "C:\\Users\\brendo\\source\\repos\\FirstWeekExemples\\Winforms\\Validator.cs",
+              "RelativeDocumentMoniker": "Winforms\\Validator.cs",
+              "ToolTip": "C:\\Users\\brendo\\source\\repos\\FirstWeekExemples\\Winforms\\Validator.cs",
+              "RelativeToolTip": "Winforms\\Validator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T18:32:54.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\brendo\\source\\repos\\FirstWeekExemples\\Winforms\\User.cs",
+              "RelativeDocumentMoniker": "Winforms\\User.cs",
+              "ToolTip": "C:\\Users\\brendo\\source\\repos\\FirstWeekExemples\\Winforms\\User.cs",
+              "RelativeToolTip": "Winforms\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T18:32:10.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cadastro.cs",
+              "DocumentMoniker": "C:\\Users\\brendo\\source\\repos\\FirstWeekExemples\\Winforms\\Cadastro.cs",
+              "RelativeDocumentMoniker": "Winforms\\Cadastro.cs",
+              "ToolTip": "C:\\Users\\brendo\\source\\repos\\FirstWeekExemples\\Winforms\\Cadastro.cs",
+              "RelativeToolTip": "Winforms\\Cadastro.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAYwDwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T17:42:52.691Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Softlog\\source\\repos\\\u00CDkaro\\SecondWeek\\Program.cs",
-              "RelativeDocumentMoniker": "SecondWeek\\Program.cs",
-              "ToolTip": "C:\\Users\\Softlog\\source\\repos\\\u00CDkaro\\SecondWeek\\Program.cs",
-              "RelativeToolTip": "SecondWeek\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T20:31:58.003Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SecondWeek",
-              "DocumentMoniker": "C:\\Users\\Softlog\\source\\repos\\\u00CDkaro\\SecondWeek\\SecondWeek.csproj",
-              "RelativeDocumentMoniker": "SecondWeek\\SecondWeek.csproj",
-              "ToolTip": "C:\\Users\\Softlog\\source\\repos\\\u00CDkaro\\SecondWeek\\SecondWeek.csproj",
-              "RelativeToolTip": "SecondWeek\\SecondWeek.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-12T20:30:24.991Z",
-              "EditorCaption": ""
+              "Title": "Cadastro.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\brendo\\source\\repos\\FirstWeekExemples\\Winforms\\Cadastro.cs",
+              "RelativeDocumentMoniker": "Winforms\\Cadastro.cs",
+              "ToolTip": "C:\\Users\\brendo\\source\\repos\\FirstWeekExemples\\Winforms\\Cadastro.cs [Projeto]",
+              "RelativeToolTip": "Winforms\\Cadastro.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-08-18T20:14:25.283Z"
             }
           ]
         }
