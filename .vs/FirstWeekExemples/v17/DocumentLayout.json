@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{54732C95-275A-4D72-ABDE-F75E16E5C616}|Teste\\Teste.csproj|solutionrelative:teste\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5471AE2F-1773-4EC8-BB6D-08AB3C699F48}|Winforms\\Winforms.csproj|c:\\users\\brendo\\source\\repos\\firstweekexemples\\winforms\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5471AE2F-1773-4EC8-BB6D-08AB3C699F48}|Winforms\\Winforms.csproj|C:\\Users\\brendo\\source\\repos\\FirstWeekExemples\\winforms\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5471AE2F-1773-4EC8-BB6D-08AB3C699F48}|Winforms\\Winforms.csproj|solutionrelative:winforms\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -44,7 +44,7 @@
               "RelativeDocumentMoniker": "Teste\\Program.cs",
               "ToolTip": "C:\\Users\\brendo\\source\\repos\\FirstWeekExemples\\Teste\\Program.cs",
               "RelativeToolTip": "Teste\\Program.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAQwCoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAxwB0AAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-19T19:36:29.946Z",
               "EditorCaption": ""
@@ -59,8 +59,7 @@
               "RelativeToolTip": "SecondWeek\\DataAccess\\NhibernateHelper.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAQwBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T18:55:08.997Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-19T18:55:08.997Z"
             },
             {
               "$type": "Document",
@@ -72,8 +71,7 @@
               "RelativeToolTip": "Winforms\\Validator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T18:32:54.358Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-19T18:32:54.358Z"
             },
             {
               "$type": "Document",
@@ -85,8 +83,7 @@
               "RelativeToolTip": "Winforms\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T18:32:10.054Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-19T18:32:10.054Z"
             },
             {
               "$type": "Document",
