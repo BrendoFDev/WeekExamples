@@ -5,7 +5,7 @@ namespace Winforms
 {
     public class Banco
     {
-        private string connString = "Host=localhost;Port=5432;Username=postgres;Password=softlog;Database=Cadastro";
+        private string connString = "Host=localhost;Port=5432;Username=postgres;Password=;Database=Cadastro";
 
         public void InserirPessoa(People people)
         {
