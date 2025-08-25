@@ -34,7 +34,7 @@
             label1 = new Label();
             label2 = new Label();
             label3 = new Label();
-            bttRegister = new Button();
+            btnRegister = new Button();
             label4 = new Label();
             dgvPeople = new DataGridView();
             ((System.ComponentModel.ISupportInitialize)dgvPeople).BeginInit();
@@ -70,6 +70,7 @@
             label1.Size = new Size(40, 15);
             label1.TabIndex = 3;
             label1.Text = "Nome";
+            // label1.Click += label1_Click;
             // 
             // label2
             // 
@@ -89,15 +90,15 @@
             label3.TabIndex = 5;
             label3.Text = "Email";
             // 
-            // bttRegister
+            // btnRegister
             // 
-            bttRegister.Location = new Point(31, 178);
-            bttRegister.Name = "bttRegister";
-            bttRegister.Size = new Size(75, 23);
-            bttRegister.TabIndex = 6;
-            bttRegister.Text = "Cadastrar";
-            bttRegister.UseVisualStyleBackColor = true;
-            bttRegister.Click += bttRegister_Click;
+            btnRegister.Location = new Point(31, 178);
+            btnRegister.Name = "btnRegister";
+            btnRegister.Size = new Size(75, 23);
+            btnRegister.TabIndex = 6;
+            btnRegister.Text = "Cadastrar";
+            btnRegister.UseVisualStyleBackColor = true;
+            btnRegister.Click += bttRegister_Click;
             // 
             // label4
             // 
@@ -124,7 +125,7 @@
             ClientSize = new Size(800, 450);
             Controls.Add(dgvPeople);
             Controls.Add(label4);
-            Controls.Add(bttRegister);
+            Controls.Add(btnRegister);
             Controls.Add(label3);
             Controls.Add(label2);
             Controls.Add(label1);
@@ -146,7 +147,7 @@
         private Label label1;
         private Label label2;
         private Label label3;
-        private Button bttRegister;
+        private Button btnRegister;
         private Label label4;
         private DataGridView dgvPeople;
     }

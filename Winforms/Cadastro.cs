@@ -6,10 +6,18 @@ namespace Winforms
     public partial class Cadastro : Form
     {
         public DataTable dtPeople = new DataTable();
+        private Banco banco = new Banco(); // 🔹 instância do banco
+
         public Cadastro()
         {
             InitializeComponent();
             LoadGrid();
+        }
+
+        private void Cadastro_Load(object sender, EventArgs e)
+        {
+            
+            dgvPeople.DataSource = dtPeople;
         }
 
         private void LoadGrid()
@@ -17,6 +25,8 @@ namespace Winforms
             dtPeople.Columns.Add("Nome");
             dtPeople.Columns.Add("Idade");
             dtPeople.Columns.Add("Email");
+
+            dtPeople = banco.LoadDGV(dtPeople);
 
             dgvPeople.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.AllCells;
             dgvPeople.DataSource = dtPeople;
@@ -33,7 +43,14 @@ namespace Winforms
                 people.Age = Convert.ToInt32(txtAge.Text);
 
                 Validate(people);
+
+                // 🔹 insere no banco
+                banco.InserirPessoa(people);
+
+                // 🔹 adiciona no DataGridView
                 AddPeopleIntoDataGridView(people);
+
+                MessageBox.Show("Cadastro salvo com sucesso!");
             }
             catch (Exception ex)
             {

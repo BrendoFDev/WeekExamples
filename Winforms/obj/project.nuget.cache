@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "B7PeaZDSI3Q=",
+  "dgSpecHash": "yXSEU8YnKr4=",
   "success": true,
   "projectFilePath": "C:\\Users\\brendo\\source\\repos\\FirstWeekExemples\\Winforms\\Winforms.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\brendo\\.nuget\\packages\\fluentvalidation\\12.0.0\\fluentvalidation.12.0.0.nupkg.sha512"
+    "C:\\Users\\brendo\\.nuget\\packages\\fluentvalidation\\12.0.0\\fluentvalidation.12.0.0.nupkg.sha512",
+    "C:\\Users\\brendo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\brendo\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\brendo\\.nuget\\packages\\npgsql\\9.0.3\\npgsql.9.0.3.nupkg.sha512"
   ],
   "logs": []
 }

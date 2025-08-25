@@ -18,3 +18,6 @@ C:\Users\brendo\source\repos\FirstWeekExemples\Winforms\obj\Debug\net8.0-windows
 C:\Users\brendo\source\repos\FirstWeekExemples\Winforms\obj\Debug\net8.0-windows\Winforms.Cadastro.resources
 C:\Users\brendo\source\repos\FirstWeekExemples\Winforms\bin\Debug\net8.0-windows\FluentValidation.dll
 C:\Users\brendo\source\repos\FirstWeekExemples\Winforms\obj\Debug\net8.0-windows\Winforms.csproj.Up2Date
+C:\Users\brendo\source\repos\FirstWeekExemples\Winforms\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\brendo\source\repos\FirstWeekExemples\Winforms\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\brendo\source\repos\FirstWeekExemples\Winforms\bin\Debug\net8.0-windows\Npgsql.dll
